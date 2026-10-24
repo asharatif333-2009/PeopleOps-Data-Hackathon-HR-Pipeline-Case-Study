@@ -1,0 +1,8 @@
+﻿Msg 207, Level 16, State 1, Line 24
+Invalid column name 'from'.
+Msg 207, Level 16, State 1, Line 25
+Invalid column name 'to'.
+Msg 207, Level 16, State 1, Line 26
+Invalid column name 'component'.
+
+Completion time: 2026-10-25T03:58:16.1592327+05:00
